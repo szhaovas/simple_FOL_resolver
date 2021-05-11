@@ -1,0 +1,12 @@
+2
+Conservative(Clem)
+~Conservative(Stan)
+8
+Aggie(aj) & ~Loves(aj,ai) => ~Dog(ai)
+~Armadillo(aa) & Austinite(ab) => Conservative(ab)
+Wears(ae) => Aggie(ae)
+~Loves(am,al)
+Armadillo(af)
+Loves(ag,ah)
+Loves(ad,ac)
+Dog(ak)

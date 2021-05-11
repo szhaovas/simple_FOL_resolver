@@ -1,0 +1,15 @@
+2
+~Date(Mary,John)
+Date(Mary,Bill)
+11
+~Owns(Mary,G)
+Buy(ak) => Owns(ak,aj)
+~Rabbit(an) => ~Dog(ao)
+Dog(aa)
+Owns(John,ab)
+~Chase(aq,ap) => ~Dog(aq)
+Grocery(G)
+Buy(Mary)
+Chase(ah,ai) & Rabbit(ai) & Rabbit(af) & Owns(ag,af) => Hates(ag,ah)
+Buy(am) & ~Grocery(al) => Rabbit(al)
+Owns(ac,ae) & Date(ad,ac) => ~Hates(ad,ae)

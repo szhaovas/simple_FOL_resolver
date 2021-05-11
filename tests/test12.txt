@@ -1,0 +1,10 @@
+2
+~Loves(Mary,John)
+~Loves(Mary,Bill)
+6
+Pass(ac) & Student(ac) => Study(ac)
+Student(John)
+Loves(Mary,aa) => Star(aa)
+Play(ad) & Student(ad) => Pass(ad)
+~Study(John)
+~Play(ab) => ~Star(ab)

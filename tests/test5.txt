@@ -1,0 +1,12 @@
+1
+Kills(Curiosity,Tuna)
+9
+AnimalLover(aa)
+Animal(ab)
+~Animal(ae) => ~Cat(ae)
+Dog(D)
+Kills(ad,ac)
+~Kills(Curiosity,Tuna) => Kills(Jack,Tuna)
+Owns(Jack,D)
+~AnimalLover(ag) & Owns(ag,af) => ~Dog(af)
+Cat(Tuna)

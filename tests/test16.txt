@@ -1,0 +1,15 @@
+2
+~Loves(Bill,Santa)
+Loves(Jhonny,Santa)
+11
+~Light(ah) => ~Foggy(ai)
+~Give(Santa,ac,ad) => ~Travel(Santa,Christmas)
+Light(ae) & ~Travel(af,ag) => ~Has(af,ae)
+RedNoseReindeer(ap) => Light(ap)
+Present(am) & Give(ao,am,an) & Child(an) => Loves(an,ao)
+~Child(aa) => ~Travel(Santa,Christmas)
+Has(Santa,Bob)
+Foggy(al) => Has(ak,aj)
+Foggy(Christmas)
+RedNoseRaindeer(Bob)
+~Present(ab) => ~Travel(Santa,Christmas)

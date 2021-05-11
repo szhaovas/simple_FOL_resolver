@@ -1,0 +1,12 @@
+2
+Livesmore(Ani)
+Livesmore(Sid)
+8
+~Livesmore(ae) & Rich(ae) => ~Healthy(ae)
+Rich(Ani)
+Eatwell(ad) => Healthy(ad)
+Father(Ani,Sid)
+~Rich(ab) & Father(aa,ab) => ~Rich(aa)
+Exercise(Sid)
+~Healthy(ac) => ~Exercise(ac)
+~Eatwell(Sid)

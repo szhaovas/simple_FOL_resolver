@@ -1,0 +1,14 @@
+2
+~Date(Mary,John)
+Date(Mary,Bill)
+10
+Yuppie(ah) => Lawyer(ah)
+~Lawer(John)
+Biker(John)
+Harley(Davidson)
+Harley(af) & Rides(ag,af) => Rough(ag)
+BMW(ad) & ~Yuppie(ae) => ~Rides(ae,ad)
+BMW(Vfour)
+Nice(Mary)
+Rough(aa) & Date(ab,aa) => ~Nice(ab)
+Biker(ac) => Rides(ac,Davidson)

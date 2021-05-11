@@ -1,0 +1,11 @@
+1
+~Child(Scrooge)
+8
+Reindeer(Rudolph)
+Clown(aa) => ~Reindeer(aa)
+~Clown(ag) => Weird(ag)
+Rednose(Rudolph)
+~Loves(ac,ab) & Reindeer(ab) => ~Loves(ac,Santa)
+Child(ae) => Loves(ae,Santa)
+Loves(Scrooge,ad) => ~Weird(ad)
+~Clown(af) => Rednose(af)

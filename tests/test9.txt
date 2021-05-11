@@ -1,0 +1,12 @@
+2
+Trump(Ram)
+Trump(Sita)
+8
+~Trump(ac) => ~Man(ac)
+Woman(Sita)
+White(aa) => ~Indian(aa)
+Indian(Sita)
+White(ad) => Trump(ad)
+Man(ab) => ~Woman(ab)
+Indian(Ram)
+Man(Ram)

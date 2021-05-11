@@ -1,0 +1,5 @@
+1
+A(Bob)
+2
+B(aa) & C(aa) => A(aa)
+~B(Bob) => C(Bob)
