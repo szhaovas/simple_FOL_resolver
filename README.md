@@ -1,0 +1,1 @@
+A simple FOL resolver for knowledge base in INF form. Running `python homework.py` will resolve the knowledge base `input.txt` and write result to `output.txt`. Running `python tester.py` will run all tests.
