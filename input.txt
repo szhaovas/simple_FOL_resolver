@@ -1,5 +1,0 @@
-1
-Livesmore(Ani)
-2
-Rich(Ani) => Rich(Sid)
-Rich(x) & Father(x,y) => Rich(y)
